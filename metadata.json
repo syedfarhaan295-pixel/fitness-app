@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse",
+  "description": "Modern fitness tracker with daily activity rings, workout planner, interactive gym set logger, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
